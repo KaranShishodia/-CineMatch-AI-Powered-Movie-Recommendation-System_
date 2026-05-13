@@ -1,5 +1,7 @@
 # 🎬 CineMatch — AI-Powered Movie Recommendation System
 
+CineMatch is a full-stack, production-deployed web application that delivers personalized movie recommendations using a custom-built hybrid machine learning engine. It combines content-based and collaborative filtering techniques to solve one of the core challenges in recommendation systems — accurately predicting what a user wants to watch next.
+
 A full-stack, production-ready movie recommendation platform with content-based & collaborative filtering, JWT auth, watchlists, ratings, and a beautiful dark-mode UI.
 
 ---
